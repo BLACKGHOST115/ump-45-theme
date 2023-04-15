@@ -1,2 +1,2 @@
-# ump-45-theme-for-Aliucord
+# ump-45-theme
 a theme for Aliucord
