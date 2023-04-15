@@ -3,11 +3,11 @@
   "name": "ump 45",
   "author": "black ghost 115",
   "version": "0.1.1",
-  "updater": "https:\/\/raw.githubusercontent.com\/BLACKGHOST115\/ump-45-theme-fro-Aliucord\/gfl-ump-45-simpel-theme.json",
+  "updater": "https:\/\/raw.githubusercontent.com\/BLACKGHOST115\/ump-45-theme\/gfl-ump-45-simpel-theme.json",
   "license": "EPL-2.0"
 },
 "background": {
-  "url": "https:\/\/raw.githubusercontent.com\/BLACKGHOST115\/ump-45-theme-fro-Aliucord\/main\/git-file-gfl-ump-45.png",
+  "url": "https:\/\/raw.githubusercontent.com\/BLACKGHOST115\/ump-45-theme\/main\/git-file-gfl-ump-45.png",
   "overlay_alqha" : "25",
   "blur_radius" : "10"
 },
